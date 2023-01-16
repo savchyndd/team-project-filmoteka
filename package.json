@@ -2,14 +2,14 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://dariahalai.github.io/filmoteka-project",
+  "homepage": "https://savchyndd.github.io/team-project-filmoteka",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /filmoteka-project/"
+    "build": "parcel build src/*.html --public-url /team-project-filmoteka/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dariahalai/filmoteka-project.git"
+    "url": "git+https://github.com/savchyndd/team-project-filmoteka.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
